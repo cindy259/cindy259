@@ -1,16 +1,39 @@
-## Hi there 👋
+<p align="center"><img align="center" width="100%" src="./assets/header.png" /></p>
 
-<!--
-**cindy259/cindy259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I am Cindy 👋
 
-Here are some ideas to get you started:
+> A front-end engineer from **Shen zhen, China**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ Learning:
+
+<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+<code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
+
+### 📫 Reach me:
+
+- **QQ** : 2780680452
+- **E-mail** : 2780680452@qq.com
+
+> ### Hi, I am currently looking for a new job opportunity. I have more than 6 years of work experience. my contact info is above. Feel free to contact me at any time !
+
+> ### 嗨，我目前正在寻找新的工作机会，我拥有超过 6 年工作经验，您可以在上方看到我的联系方式，欢迎随时联系！
+
+### 📌 Resume:
+
+- **[https://www.lijianan.com](https://www.lijianan.com)**
+
+### 🏠 Blog:
+
+- **[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/782508010775198/posts)**
+
+### 📊 Stats:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=cindy259&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### 📈 Activity Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=li-jia-nan&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
