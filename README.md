@@ -36,4 +36,4 @@
 
 ### 📈 Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=li-jia-nan&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
+
