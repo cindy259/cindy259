@@ -1,8 +1,11 @@
 <p align="center"><img align="center" width="100%" src="/header.png" /></p>
 
-### Hi there, I am Cindy 👋
+### 👋 Hi there, I'm Cindy
 
-> A front-end engineer from **Shen zhen, China**.
+💻 Front-end developer  
+📍 Shenzhen, China  
+🌱 Currently learning React / TypeScript / Full-stack development  
+✨ Passionate about building useful and beautiful web apps
 
 ### 🏗️ Learning:
 
@@ -12,12 +15,23 @@
 <code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
+## 🚀 Projects
+
+🔹 **XXX Project**  
+A React + TypeScript web application for ...
+
+🔹 **XXX Admin System**  
+Admin dashboard built with Vue + Node.js
+
+🔹 **XXX Tool**  
+A small open source tool that helps ...
+
 ### 📫 Reach me:
 
 - **QQ** : 2780680452
 - **E-mail** : 2780680452@qq.com
 
-> ### Hi, I am currently looking for a new job opportunity. I have more than  years of work experience. my contact info is above. Feel free to contact me at any time !
+> ### I am currently looking for a front-end internship opportunity. Feel free to contact me if you are interested in my work.
 
 > ### 嗨，我目前正在寻找新的工作机会，我拥有超过年工作经验，您可以在上方看到我的联系方式，欢迎随时联系！
 
@@ -25,7 +39,12 @@
 
 - 
 
-### 🏠 Blog:
+## ✍️ Writing
+
+I enjoy sharing what I learn.
+
+- Blog: coming soon
+- Notes: learning web development
 
 - 
 
@@ -36,4 +55,8 @@
 
 ### 📈 Activity Graph:
 
+## 🌱 Currently Working On
 
+- Building a full-stack web application
+- Learning advanced React patterns
+- Exploring open source projects
